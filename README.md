@@ -1,3 +1,3 @@
 # faceExp
 
-link: https://h4shell.github.io/faceExp
+link: https://h4sh.it/faceExp/
