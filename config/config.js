@@ -1,6 +1,6 @@
 let config = {
     status:"neutral",
-    color:"red"
+    color:"blue"
 }
 
 if (config.color == "green"){
